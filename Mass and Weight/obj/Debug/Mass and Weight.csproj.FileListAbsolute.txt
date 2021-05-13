@@ -1,0 +1,10 @@
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\bin\Debug\Mass and Weight.exe.config
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\bin\Debug\Mass and Weight.exe
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\bin\Debug\Mass and Weight.pdb
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass and Weight.csprojAssemblyReference.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass_and_Weight.Form1.resources
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass_and_Weight.Properties.Resources.resources
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass and Weight.csproj.GenerateResource.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass and Weight.csproj.CoreCompileInputs.cache
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass and Weight.exe
+E:\Programs\Chapter 4 Numbers 1 and 2\Mass and Weight\obj\Debug\Mass and Weight.pdb
